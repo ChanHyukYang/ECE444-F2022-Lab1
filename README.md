@@ -12,3 +12,5 @@ https://github.com/RickyY1689/ECE444-F2022-Lab1.git
 https://github.com/ChanHyukYang/ECE444-F2022-EP
 ![image](https://user-images.githubusercontent.com/56766097/191376587-a5e320fc-f0df-405a-b5b9-5ac54dd01966.png)
 ![image](https://user-images.githubusercontent.com/56766097/191377212-f09056bd-f140-47e6-a9fa-127a050408d3.png)
+![image](https://user-images.githubusercontent.com/56766097/191378165-5efe3aea-7fac-4319-91f7-53281bebc39a.png)
+![image](https://user-images.githubusercontent.com/56766097/191378929-c7b0e5b0-0dd7-4dec-9ff7-7d6260627671.png)
